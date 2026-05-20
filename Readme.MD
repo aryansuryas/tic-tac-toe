@@ -1,1 +1,1 @@
-code preciew
+#Tic 
