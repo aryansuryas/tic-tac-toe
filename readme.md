@@ -1,3 +1,3 @@
 # Tic - Tac - Toe
-This is aCompletw Vinbe 
+This is aCompletw Vibe Coded app
 
