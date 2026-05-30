@@ -1,4 +1,3 @@
 # Tic - Tac - Toe
-This is aCompletw Vibe Coded app that has all the features of a tic tac toe game for it an easy fans in tight
-
-vnd
+ Thgis is a Complete tic tac toe game deveeloped by the lovable.dev
+ 
